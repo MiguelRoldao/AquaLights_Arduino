@@ -8,4 +8,3 @@ It features 5 colour channels:
 - Blue (465nm)
 - Cold White (6500K)
 - Warm White (3500K)
-- 
